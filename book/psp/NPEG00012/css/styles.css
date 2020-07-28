@@ -10,7 +10,7 @@ html, body {
 	height:100%;
 }
 body {
-	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/bg_main.jpg) no-repeat;
+	background: url(//book.dl.playstation.net/book/psp/NPEG00012/images/bg_main.jpg) no-repeat;
 }
 img {
 	border:0;
@@ -59,7 +59,7 @@ h1 {
 	line-height:1px;
 }
 .downloadlink {
-	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/bg_fullbar.png) no-repeat;
+	background: url(//book.dl.playstation.net/book/psp/NPEG00012/images/bg_fullbar.png) no-repeat;
 	padding: 6px 0 0 35px;
 	color:#000000;
 	width:370px;
@@ -69,7 +69,7 @@ h1 {
 }
 .downloadlink:hover {
 	color:#FFFFFF;
-	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/bg_fullbar_roll.png) no-repeat;
+	background: url(//book.dl.playstation.net/book/psp/NPEG00012/images/bg_fullbar_roll.png) no-repeat;
 }
 .countrybar {
 	height:38px;
@@ -78,37 +78,22 @@ h1 {
 
 }
 .flag_uk {	
-	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/flag_uk.png) 181px 3px no-repeat;
+	background: url(//book.dl.playstation.net/book/psp/NPEG00012/images/flag_uk.png) 181px 3px no-repeat;
 }
 .flag_ie {	
-	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/flag_ie.png) 181px 3px no-repeat;
+	background: url(//book.dl.playstation.net/book/psp/NPEG00012/images/flag_ie.png) 181px 3px no-repeat;
 }
 .flag_sa {	
-	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/flag_sa.png) 181px 3px no-repeat;
-}
-.flag_fr {	
-	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/flag_fr.png) 181px 3px no-repeat;
-}
-.flag_de {	
-	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/flag_de.png) 181px 3px no-repeat;
+	background: url(//book.dl.playstation.net/book/psp/NPEG00012/images/flag_sa.png) 181px 3px no-repeat;
 }
 .flag_us {	
-	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/flag_us.png) 181px 3px no-repeat;
+	background: url(//book.dl.playstation.net/book/psp/NPEG00012/images/flag_us.png) 181px 3px no-repeat;
 }
 .flag_nz {	
-	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/flag_nz.png) 181px 3px no-repeat;
+	background: url(//book.dl.playstation.net/book/psp/NPEG00012/images/flag_nz.png) 181px 3px no-repeat;
 }
 .flag_au {	
-	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/flag_au.png) 181px 3px no-repeat;
-}
-.flag_it {	
-	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/flag_it.png) 181px 3px no-repeat;
-}
-.flag_es {	
-	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/flag_es.png) 181px 3px no-repeat;
-}
-.flag_be {	
-	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/flag_be.png) 181px 3px no-repeat;
+	background: url(//book.dl.playstation.net/book/psp/NPEG00012/images/flag_au.png) 181px 3px no-repeat;
 }
 
 
@@ -119,12 +104,12 @@ h1 {
 	width:200px;
 	color:#000000;
 	padding: 4px 0 0 16px;
-	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/countrybar.png) no-repeat;
+	background: url(//book.dl.playstation.net/book/psp/NPEG00012/images/countrybar.png) no-repeat;
 	text-decoration:none;
 }
 .countrylink:hover {
 	color:#ffffff;
-	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/countrybar_roll.png) no-repeat;
+	background: url(//book.dl.playstation.net/book/psp/NPEG00012/images/countrybar_roll.png) no-repeat;
 }
 .logo_digitalcomics {
 	float:left;
@@ -138,16 +123,16 @@ h1 {
 	margin-bottom:10px;
 }
 .box_mid {
-	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/bg_box_middle.png) repeat-y;
+	background: url(//book.dl.playstation.net/book/psp/NPEG00012/images/bg_box_middle.png) repeat-y;
 	padding: 0 15px;
 }
 .box_top {
-	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/bg_box_top.png) no-repeat;
+	background: url(//book.dl.playstation.net/book/psp/NPEG00012/images/bg_box_top.png) no-repeat;
 	height:6px;
 	line-height: 6px;
 }
 .box_bottom {
-	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/bg_box_bottom.png) no-repeat;
+	background: url(//book.dl.playstation.net/book/psp/NPEG00012/images/bg_box_bottom.png) no-repeat;
 	height:6px;
 	line-height: 6px;
 }
