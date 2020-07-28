@@ -1,2 +1,2 @@
-# digital-comics
-PlayStation Network Digital Comics
+# Digital Comics
+PlayStation Network Digital Comics website archived
