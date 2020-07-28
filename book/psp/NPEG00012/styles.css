@@ -1,0 +1,175 @@
+html, body {
+	background-color:#000000;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#000000;
+	line-height:17px;
+	margin:0px;
+	padding:0px;
+	width:100%;
+	height:100%;
+}
+body {
+	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/bg_main.jpg) no-repeat;
+}
+img {
+	border:0;
+}
+ul {
+	padding-left: 16px;
+	margin: 0;
+}
+a {
+	color:#b62323;
+	text-decoration:underline;
+}
+a:hover {
+	color:#b62323;
+}
+a:focus { 
+	-moz-outline-style: none;
+	background-color:transparent;
+}
+h1 {
+	margin: 0;
+	padding: 5px 0 0 0;
+	font-weight:normal;
+	font-size:18px;
+	color:#ffffff;
+}
+.subtxt {
+	color:#acacac;
+}
+.maincontainer {
+	padding: 0 15px 0 30px;
+}
+.maincontainer_country {
+	padding: 0 0 0 15px;
+}
+.top {
+	height:32px;
+	padding-top:4px;
+}
+.container {
+	padding: 30px 0 10px 0;
+}
+.clearline {
+	clear:both;
+	height:1px;
+	line-height:1px;
+}
+.downloadlink {
+	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/bg_fullbar.png) no-repeat;
+	padding: 6px 0 0 35px;
+	color:#000000;
+	width:370px;
+	height:31px;
+	display:block;
+	text-decoration:none;
+}
+.downloadlink:hover {
+	color:#FFFFFF;
+	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/bg_fullbar_roll.png) no-repeat;
+}
+.countrybar {
+	height:38px;
+	width:230px;
+	float:left;
+
+}
+.flag_uk {	
+	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/flag_uk.png) 181px 3px no-repeat;
+}
+.flag_ie {	
+	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/flag_ie.png) 181px 3px no-repeat;
+}
+.flag_sa {	
+	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/flag_sa.png) 181px 3px no-repeat;
+}
+.flag_fr {	
+	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/flag_fr.png) 181px 3px no-repeat;
+}
+.flag_de {	
+	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/flag_de.png) 181px 3px no-repeat;
+}
+.flag_us {	
+	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/flag_us.png) 181px 3px no-repeat;
+}
+.flag_nz {	
+	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/flag_nz.png) 181px 3px no-repeat;
+}
+.flag_au {	
+	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/flag_au.png) 181px 3px no-repeat;
+}
+.flag_it {	
+	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/flag_it.png) 181px 3px no-repeat;
+}
+.flag_es {	
+	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/flag_es.png) 181px 3px no-repeat;
+}
+.flag_be {	
+	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/flag_be.png) 181px 3px no-repeat;
+}
+
+
+
+.countrylink {
+	display:block;
+	height:24px;
+	width:200px;
+	color:#000000;
+	padding: 4px 0 0 16px;
+	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/countrybar.png) no-repeat;
+	text-decoration:none;
+}
+.countrylink:hover {
+	color:#ffffff;
+	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/countrybar_roll.png) no-repeat;
+}
+.logo_digitalcomics {
+	float:left;
+	padding-top:6px
+}
+.logo_psn {
+	float:right;
+}
+.box_container {
+	width: 404px;
+	margin-bottom:10px;
+}
+.box_mid {
+	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/bg_box_middle.png) repeat-y;
+	padding: 0 15px;
+}
+.box_top {
+	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/bg_box_top.png) no-repeat;
+	height:6px;
+	line-height: 6px;
+}
+.box_bottom {
+	background: url(/web/20130310221412im_/http://book.dl.playstation.net/book/psp/NPEG00012/images/bg_box_bottom.png) no-repeat;
+	height:6px;
+	line-height: 6px;
+}
+
+/*
+     FILE ARCHIVED ON 22:14:12 Mar 10, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:05:06 Jul 28, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.257
+  PetaboxLoader3.resolve: 57.678 (2)
+  LoadShardBlock: 63.979 (3)
+  esindex: 0.012
+  exclusion.robots.policy: 0.244
+  captures_list: 80.177
+  RedisCDXSource: 1.37
+  load_resource: 112.211
+  PetaboxLoader3.datanode: 106.282 (4)
+  CDXLines.iter: 12.168 (3)
+*/
