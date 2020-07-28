@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>PlayStation Network Digital Comics</title>
+<link rel="stylesheet" href="css/styles.css" type="text/css" media="all">
+</head>
+
+<body style="width:480px;">
+<div class="maincontainer">
+	<div class="top">
+		<div class="logo_psn"><img src="images/logo_psn.gif"></div>
+		<h1>Download</h1>
+	</div>
+	<div class="container">
+		<div class="box_container">
+			<div class="box_top"><!-- --></div>
+			<div class="box_mid">
+				<b><center>Comics have entered the digital age!</center></b><br>
+The <b>Digital Comics Reader</b> is required to view digital comics and can be downloaded using the link below:<br>
+			</div>
+			<div class="box_bottom"><!-- --></div>
+		</div>
+		<a class="downloadlink" href="download.xpd">Download Reader</a>
+	</div>
+	<div class="box_top"><!-- --></div>
+			<div class="box_mid">
+				You can now download hundreds of classic and new comics from <b>Comic Store of PlayStation®Store on your PSP™</b><br> to read wherever you go. Simply click on the <b>"Comics"</b> tab<br> to see a huge choice of quality titles.<br><br>More and more titles will arrive every week, so keep an eye<br> on the Store and <a href="http://playstationcomics.com/">www.playstationcomics.com</a> for the latest<br> news, features and updates.<br>
+</div>
+<div class="box_bottom"><!-- --></div>
+</div>
+</body></html>
